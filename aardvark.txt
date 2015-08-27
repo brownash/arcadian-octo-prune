@@ -1,4 +1,3 @@
-we're going to make changes to this, so it would be good to have 
-something that you can actually read
+we're going to make changes to this
 
 these lines are meant to be meaningful
